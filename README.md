@@ -5,7 +5,7 @@
 - 💬 Ask me about I will answer
 - 😄 Pronouns: Harshit gupta
 
-
+<!--
 <p align="left">
   
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" style="max-width:100%;">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="bash" style="max-width:100%;">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="bash" style="max-width:100%;">
 </p>
-
+-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yxxhero/yxxhero/output/github-contribution-grid-snake.svg)
 
